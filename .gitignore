@@ -1,0 +1,11 @@
+# Java build output
+*.class
+bin/
+out/
+
+# Editors
+.idea/
+*.iml
+
+# macOS
+.DS_Store

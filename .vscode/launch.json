@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Part 1: Kitchen",
+      "request": "launch",
+      "mainClass": "Kitchen",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "Part 2/3: KitchenApp",
+      "request": "launch",
+      "mainClass": "KitchenApp",
+      "console": "integratedTerminal"
+    }
+  ]
+}
